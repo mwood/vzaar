@@ -12,7 +12,7 @@ begin
     gemspec.homepage = "http://github.com/tailorbirds/vzaar"
     gemspec.authors = ["Mariusz Lusiak", "Stefano Diem Benatti"]
     
-    gemspec.add_dependency 'oauth', '0.3.6'
+    gemspec.add_dependency 'oauth'
     gemspec.add_dependency 'httpclient'
     gemspec.add_dependency 'nokogiri'
   end
